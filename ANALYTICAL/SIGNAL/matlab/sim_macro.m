@@ -1,5 +1,5 @@
 
-%MACRO for running simulations with the FLEXD framework (analytical version)
+%MACRO for running simulations with the SIMPLEX framework (analytical version)
 
 recompile = 1; %will recompile code if true
 
